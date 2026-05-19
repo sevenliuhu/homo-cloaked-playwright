@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "cloaked-playwright"
+version = "0.1.0"
+description = "Chromium stealth browser — Playwright-compatible, powered by CloakBrowser"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "AGPL-3.0"}
+authors = [
+    {name = "HOMO Team", email = "team@homo-ai.dev"},
+]
+
+[project.urls]
+Homepage = "https://github.com/sevenliuhu/cloaked-playwright"
+Documentation = "https://github.com/sevenliuhu/cloaked-playwright#readme"
+Repository = "https://github.com/sevenliuhu/cloaked-playwright"
+
+[project.scripts]
+cloaked-playwright = "cloaked_playwright.__main__:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
