@@ -125,7 +125,7 @@ cloaked-playwright https://example.com
 | **验证码自动打码** | ❌ | ✅ |
 | **并发浏览器** | 1 | 10+ |
 
-[获取Pro版 →](https://homo-ai.dev/cloaked-playwright)
+[获取Pro版 →](https://cloaked.dev)
 
 ---
 
@@ -133,18 +133,6 @@ cloaked-playwright https://example.com
 
 - 接口设计参考了 [invisible_playwright](https://github.com/feder-cr/invisible_playwright)（MIT License，致谢）
 - 底层引擎 [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) — 15,000+ ★ 的隐身Chromium
-- Python封装层由 [HOMO AI](https://github.com/sevenliuhu/Homo-Ai) 团队独立开发
-
----
-
-## 产品矩阵
-
-| 项目 | 说明 | 
-|:-----|:------|
-| [Homo-Ai](https://github.com/sevenliuhu/Homo-Ai) | 15合1 AI智能体操作系统 |
-| [homo-memory-vault](https://github.com/sevenliuhu/homo-memory-vault) | 隐私记忆引擎 |
-| **cloaked-playwright** 🆕 | Chromium隐身浏览器 |
-| [更多...](https://github.com/sevenliuhu) |
 
 ---
 
