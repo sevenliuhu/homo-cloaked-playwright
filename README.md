@@ -142,7 +142,7 @@ cloaked-playwright https://example.com
 | 项目 | 说明 | 
 |:-----|:------|
 | [Homo-Ai](https://github.com/sevenliuhu/Homo-Ai) | 15合1 AI智能体操作系统 |
-| [homo-memory-vault](https://github.com/sevenliuhu/homo-memory-vault) | 专利级隐私记忆引擎 |
+| [homo-memory-vault](https://github.com/sevenliuhu/homo-memory-vault) | 隐私记忆引擎 |
 | **cloaked-playwright** 🆕 | Chromium隐身浏览器 |
 | [更多...](https://github.com/sevenliuhu) |
 
