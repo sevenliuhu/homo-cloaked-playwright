@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 """接口兼容性测试 — 验证和invisible_playwright的接口对齐"""
 
 
