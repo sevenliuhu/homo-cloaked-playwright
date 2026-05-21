@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 """常量配置 — 接口对齐参考了invisible_playwright"""
 import os
 
