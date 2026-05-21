@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 """
 cloaked_playwright — Chromium隐身浏览器，Playwright兼容接口
 
