@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 """
 cloaked_playwright.async_api — 异步API，接口对齐invisible_playwright
 
