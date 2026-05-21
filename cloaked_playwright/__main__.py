@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 #!/usr/bin/env python3
 """cloaked-playwright CLI — 快速启动隐身浏览器"""
 import sys
