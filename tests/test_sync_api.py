@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 """测试 cloaked-playwright 同步API"""
 import pytest
 from cloaked_playwright.sync_api import cloaked_sync, CloakedBrowser
